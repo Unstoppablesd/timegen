@@ -1,0 +1,7 @@
+{
+  "name": "wavecraft-studio",
+  "version": "3.1.0",
+  "private": true,
+  "description": "Local-first FPGA timing diagram workbench",
+  "scripts": { "build": "node scripts/build.cjs", "test": "node tests/core.cjs", "start": "node scripts/serve.cjs" }
+}
